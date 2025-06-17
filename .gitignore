@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.env
+
+# Base de datos vectorial
+chroma_db/
+
+# Logs
+*.log
+pdf_processing.log
+
+# Archivos de consultas
+consultas_normativa.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db 
