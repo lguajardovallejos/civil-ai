@@ -1,0 +1,120 @@
+Pregunta 1 (directa):
+Pregunta: ¿Cuál es el espesor mínimo de losa para un edificio de 5 pisos según la NCh433?
+Respuesta esperada: Según la NCh433 - 2012, el espesor mínimo de losa para edificios de 5 pisos debe ser de 15 cm.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 2 (directa):
+Pregunta: ¿Qué establece la NCh2369 sobre el diseño sísmico de estructuras?
+Respuesta esperada: La NCh2369 - 2003 establece los requisitos para el diseño sísmico de estructuras, incluyendo los coeficientes de modificación de respuesta y los factores de reducción de resistencia.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 3 (directa):
+Pregunta: ¿Cuáles son los requisitos de resistencia al fuego según la NCh430?
+Respuesta esperada: La NCh430 - 2015 establece que los elementos estructurales deben tener una resistencia al fuego mínima de 60 minutos para edificios de hasta 4 pisos.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 4 (directa):
+Pregunta: ¿Qué especifica la NCh2123 sobre el diseño de fundaciones?
+Respuesta esperada: La NCh2123 - 2018 especifica los requisitos para el diseño de fundaciones, incluyendo la capacidad portante del suelo y los asentamientos permisibles.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 5 (directa):
+Pregunta: ¿Cuál es el factor de seguridad mínimo para el diseño de muros de contención según la NCh1537?
+Respuesta esperada: La NCh1537 - 2009 establece un factor de seguridad mínimo de 1.5 para el diseño de muros de contención.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 6 (comparativa):
+Pregunta: ¿Cuál es la diferencia en los requisitos de resistencia al fuego entre la NCh430 y la NCh2369?
+Respuesta esperada: La NCh430 - 2015 se enfoca en la resistencia al fuego de elementos estructurales, mientras que la NCh2369 - 2003 aborda el diseño sísmico general. La NCh430 requiere 60 minutos de resistencia para edificios de hasta 4 pisos, mientras que la NCh2369 no especifica tiempos de resistencia al fuego.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 7 (comparativa):
+Pregunta: ¿Cómo se comparan los requisitos de diseño sísmico entre la NCh433 y la NCh2369?
+Respuesta esperada: La NCh433 - 2012 y la NCh2369 - 2003 tienen enfoques complementarios. La NCh433 establece los requisitos generales de diseño sísmico, mientras que la NCh2369 proporciona coeficientes específicos de modificación de respuesta.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 8 (comparativa):
+Pregunta: ¿Qué diferencias hay en los requisitos de fundaciones entre la NCh2123 y la NCh1537?
+Respuesta esperada: La NCh2123 - 2018 se enfoca en el diseño general de fundaciones, mientras que la NCh1537 - 2009 se centra específicamente en muros de contención y sus fundaciones.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 9 (comparativa):
+Pregunta: ¿Cómo varían los requisitos de resistencia al fuego según el tipo de estructura en la NCh430?
+Respuesta esperada: La NCh430 - 2015 establece diferentes requisitos de resistencia al fuego según el tipo de estructura: 60 minutos para estructuras de hormigón armado de hasta 4 pisos, y 90 minutos para estructuras de acero.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 10 (comparativa):
+Pregunta: ¿Qué diferencias hay en los factores de seguridad entre la NCh2123 y la NCh1537?
+Respuesta esperada: La NCh2123 - 2018 establece un factor de seguridad de 2.0 para fundaciones, mientras que la NCh1537 - 2009 requiere 1.5 para muros de contención.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 11 (inferencia):
+Pregunta: ¿Qué implicaciones tiene un factor de seguridad de 1.5 en muros de contención sobre el diseño de fundaciones?
+Respuesta esperada: Según la NCh1537 - 2009 y la NCh2123 - 2018, un factor de seguridad de 1.5 en muros de contención implica que las fundaciones deben diseñarse para soportar cargas incrementadas en un 50% sobre las cargas de servicio.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 12 (inferencia):
+Pregunta: ¿Cómo afecta la resistencia al fuego de 60 minutos a la selección de materiales según la NCh430?
+Respuesta esperada: La NCh430 - 2015 implica que los materiales seleccionados deben mantener su resistencia estructural durante al menos 60 minutos bajo condiciones de incendio, lo que afecta la selección de recubrimientos y protecciones.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 13 (inferencia):
+Pregunta: ¿Qué se puede inferir sobre la importancia de la capacidad portante del suelo según la NCh2123?
+Respuesta esperada: La NCh2123 - 2018 sugiere que la capacidad portante del suelo es un factor crítico que determina el tipo y dimensiones de las fundaciones, ya que establece requisitos específicos para su evaluación.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 14 (inferencia):
+Pregunta: ¿Qué implicaciones tiene el diseño sísmico de la NCh433 sobre la selección de sistemas estructurales?
+Respuesta esperada: La NCh433 - 2012 implica que los sistemas estructurales deben seleccionarse considerando su comportamiento sísmico, ductilidad y capacidad de disipación de energía.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 15 (inferencia):
+Pregunta: ¿Cómo afecta la NCh2369 a la distribución de rigidez en un edificio?
+Respuesta esperada: La NCh2369 - 2003 sugiere que la distribución de rigidez debe ser uniforme para evitar concentraciones de esfuerzos y asegurar un comportamiento sísmico adecuado.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 16 (aplicación):
+Pregunta: Para un edificio de 8 pisos en zona sísmica, ¿qué normativas aplican y qué requisitos específicos debe cumplir?
+Respuesta esperada: Según la NCh433 - 2012 y NCh2369 - 2003, el edificio debe cumplir con requisitos de diseño sísmico, incluyendo coeficientes de modificación de respuesta y factores de reducción de resistencia. Además, según la NCh430 - 2015, debe tener una resistencia al fuego de 90 minutos.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 17 (aplicación):
+Pregunta: En un proyecto de muro de contención de 6 metros de altura, ¿qué normativas y requisitos específicos aplican?
+Respuesta esperada: Según la NCh1537 - 2009, el muro debe diseñarse con un factor de seguridad mínimo de 1.5 y considerar la estabilidad global. La NCh2123 - 2018 aplica para el diseño de la fundación.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 18 (aplicación):
+Pregunta: Para una estructura de acero en zona costera, ¿qué normativas y requisitos específicos aplican?
+Respuesta esperada: La NCh2369 - 2003 establece los requisitos de diseño sísmico, la NCh430 - 2015 especifica la resistencia al fuego de 90 minutos, y se deben considerar requisitos adicionales para protección contra corrosión en ambiente marino.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 19 (aplicación):
+Pregunta: En un proyecto de fundación sobre suelo blando, ¿qué normativas y requisitos específicos aplican?
+Respuesta esperada: La NCh2123 - 2018 establece los requisitos para el diseño de fundaciones, incluyendo la evaluación de la capacidad portante y los asentamientos permisibles. Se debe considerar un factor de seguridad de 2.0.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
+Pregunta 20 (aplicación):
+Pregunta: Para un edificio de 3 pisos con uso comercial, ¿qué normativas y requisitos específicos aplican?
+Respuesta esperada: Según la NCh433 - 2012 y NCh2369 - 2003, debe cumplir con requisitos de diseño sísmico. La NCh430 - 2015 establece una resistencia al fuego de 60 minutos para elementos estructurales.
+Respuesta obtenida: Ocurrió un error al procesar tu consulta.
+Documentos usados: 0
+--------------------------------------------------------------------------------
