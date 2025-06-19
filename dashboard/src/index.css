@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    @apply bg-gray-900 text-gray-300;
+  }
+}
