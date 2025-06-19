@@ -4,10 +4,11 @@ This module orchestrates the regulatory analysis system using modular tools and 
 """
 
 import asyncio
-from google.adk import Runner
-from google.adk.tools import FunctionTool
-from google.adk.sessions import InMemorySessionService
-from google.genai import types
+from google.adk import Runner, FunctionTool, types
+from google.adk.services import InMemorySessionService
+from typing import Optional
+
+# Import modular components
 from .config import APP_NAME, DEFAULT_USER_ID, DEFAULT_SESSION_ID
 from .tools import (
     search_regulations,
@@ -21,7 +22,6 @@ from .tools import (
     analyze_pdf_calculation_memo
 )
 from .agents import create_root_agent
-from typing import Optional
 
 # Session service configuration
 session_service = InMemorySessionService()
