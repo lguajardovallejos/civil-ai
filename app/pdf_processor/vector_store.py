@@ -6,10 +6,12 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import uuid
 
+COLLECTION_NAME = os.getenv("VECTOR_COLLECTION_NAME", "pdf_documents")
+
 class VectorStore:
     def __init__(self, persist_directory: str = "chroma_db"):
         self.client = chromadb.PersistentClient(path=persist_directory)
-        self.collection = self.client.get_or_create_collection(name="pdf_documents")
+        self.collection = self.client.get_or_create_collection(COLLECTION_NAME)
         self.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
         self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=1000,
